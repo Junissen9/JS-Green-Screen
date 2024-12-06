@@ -1,0 +1,27 @@
+h1 {
+  color: #5F9EA0;
+  font-family: courier;
+}
+
+canvas {
+  width: 80pt;
+  heigth: 140pt;
+  padding: 5pt;
+  border: 1pt solid lightgray;
+  front-size: 16pt;
+}
+
+.Pinkback {
+  background-color: #FAEBD7;
+}
+
+.Aquaback {
+  background-color: #7FFFD4;
+}
+
+.LightGreen {
+  background-color: #90EE90;
+}
+.Khaki {
+  background-color: #F0E68C;
+}
