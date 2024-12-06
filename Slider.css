@@ -1,0 +1,13 @@
+canvas {
+  width: 200pt;
+  heigth: 240pt;
+  border: 1pt solid lightgray;
+}
+
+input {
+  font-size: 40pt;
+}
+
+.aquaback {
+  background-color: #F0FFFF;
+}
